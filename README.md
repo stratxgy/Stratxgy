@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=300&color=F7F7F7&width=200&lines=Stratxgy">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=300&color=F7F7F7&width=200&lines=stratxgy">
    
    ![](https://komarev.com/ghpvc/?username=Stratxgy&base=1000)
 
