@@ -3,7 +3,7 @@
    
    ![](https://komarev.com/ghpvc/?username=Stratxgy&base=1000)
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on Aura - Counter Blox (HVH)
 - 🌱 I’m currently learning Lua and Html
 - 🤔 I’m looking for help with Aura - Phantom Forces
   ![](https://hit.yhype.me/github/profile?user_id=117533771)
