@@ -3,9 +3,6 @@
    
    ![](https://komarev.com/ghpvc/?username=Stratxgy&base=1000)
 
-- 🔭 I’m currently working on Truly - recoil
-- 🌱 I’m currently learning Lua and Html
-- 🤔 I’m looking for help with Aura - Phantom Forces
   ![](https://hit.yhype.me/github/profile?user_id=117533771)
 
 <h3 align="left">Languages:</h3>
